@@ -1,0 +1,14 @@
+
+   - Traffic demand data
+   - Intersection configuration
+   - GA parameters
+
+
+   - Genetic Algorithm
+   - Fitness evaluation
+   - Selection, crossover, mutation
+
+
+   - Optimized signal timing plans
+   - Performance metrics
+   - Visualization
